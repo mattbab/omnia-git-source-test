@@ -1,0 +1,1 @@
+{"id":"git-remote-demo","name":"Git Remote Demo","version":"1.0.0","runtime":"native","provides":["games"],"help":"Data-only pack installed from a PUBLIC git repo over https — proves the remote git-source install path end-to-end."}
