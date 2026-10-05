@@ -1,0 +1,17 @@
+{
+  "plugins": [
+    {
+      "id": "git-remote-demo",
+      "name": "Git Remote Demo",
+      "description": "Data-only pack installed from a PUBLIC git repo over https \u2014 proves the remote git-source install path end-to-end.",
+      "version": "1.0.0",
+      "provides": [
+        "games"
+      ],
+      "runtime": "native",
+      "trustTier": "community",
+      "downloadUrl": "https://raw.githubusercontent.com/mattbab/omnia-git-source-test/master/git-remote-demo-1.0.0.zip",
+      "sha256": "0862bf91655148e7cc2444bc9083e3d8b1e5bbe9d6361bce82561606420601ff"
+    }
+  ]
+}
